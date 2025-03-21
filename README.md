@@ -10,8 +10,8 @@
 
 ```javascript
 const Ale = {
-  code: [Javascript, HTML, CSS, C#, Python],
-  tools: [Node, Laravel]
+  code: [Javascript, HTML, CSS, C#],
+  tools: [Node, React JS]
 }
 ```
 
